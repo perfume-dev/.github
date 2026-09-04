@@ -1,14 +1,14 @@
 # perfume-dev
 
-`perfume-dev` hosts code, tools, and examples created for creative-technology projects with [Perfume](https://www.perfume-web.jp/profile/), the three-member Japanese artist group.
+`perfume-dev` hosts creative-technology code, tools, and examples, including materials created for projects with [Perfume](https://www.perfume-web.jp/profile/), the three-member Japanese artist group.
 
-The organization was founded by [Daito Manabe](https://github.com/daitomanabe) and has been led and administered by him since its launch in 2012. He continues to oversee the repositories' maintenance and compatibility updates, working with project collaborators.
+The organization was founded by [Daito Manabe](https://github.com/daitomanabe) and has been led and administered by him since its launch in 2012. He continues to oversee repository maintenance and compatibility updates as needed, working with project collaborators.
 
-The organization grew out of the open-source component of the 2012 [Perfume “Global Site Project”](https://www.bunka.go.jp/j-mediaarts-festival/award/single/perfume_global_site_project/index.html), for which Manabe led planning, direction, and programming. Motion-capture data, tools, and sample code were shared on GitHub to encourage creative reuse.
+The organization grew out of the open-source component of the 2012 [Perfume “Global Site Project”](https://www.bunka.go.jp/j-mediaarts-festival/award/single/perfume_global_site_project/index.html), for which Manabe was credited with planning, direction, and programming. The project distributed original music and motion-capture data through the official site, while extensions and sample code were published on GitHub to encourage creative reuse.
 
 Since 2010, Manabe has contributed to multiple Perfume projects in roles including creative direction, technical direction, programming, and sound-related design, including sound-effect design. Teams and responsibilities have varied by project.
 
-These repositories document collaborative work. Authorship belongs to the people credited for each project, and every repository retains its own commit history, contributor credits, copyright notices, and license terms.
+These repositories document collaborative work. For project and code authorship, consult each repository's documentation and Git history; any repository-specific copyright notices and license terms remain controlling.
 
 ## Background and credits
 
@@ -21,12 +21,14 @@ These repositories document collaborative work. Authorship belongs to the people
 
 ---
 
-`perfume-dev` は、1999年に広島で結成された日本の3人組アーティスト、[Perfume](https://www.perfume-web.jp/profile/)とのクリエイティブ・テクノロジー領域のプロジェクトで制作されたコード、ツール、サンプルを公開・保守するOrganizationです。
+## 日本語
 
-このOrganizationは真鍋大度によって2012年に立ち上げられ、設立以来、真鍋が主導して管理してきました。現在も共同制作者とともに、各リポジトリの保守と現行環境への互換性更新を行っています。
+`perfume-dev` は、クリエイティブ・テクノロジー領域のコード、ツール、サンプルを公開・保守するOrganizationです。その中には、1999年に広島で結成された日本の3人組アーティスト、[Perfume](https://www.perfume-web.jp/profile/)とのプロジェクトで制作された資料も含まれます。
 
-その起点は、真鍋が企画・ディレクション・プログラミングを担った2012年の[Perfume “Global Site Project”](https://www.bunka.go.jp/j-mediaarts-festival/award/single/perfume_global_site_project/index.html)です。同プロジェクトでは、モーションキャプチャデータ、ツール、サンプルコードをGitHub上で公開し、二次創作を促しました。
+このOrganizationは真鍋大度によって2012年に立ち上げられ、設立以来、真鍋が主導して管理してきました。現在も共同制作者とともに、必要に応じて各リポジトリの保守と現行環境への互換性更新を行っています。
+
+その起点は、真鍋が企画・ディレクション・プログラミングとしてクレジットされた2012年の[Perfume “Global Site Project”](https://www.bunka.go.jp/j-mediaarts-festival/award/single/perfume_global_site_project/index.html)です。同プロジェクトでは、公式サイトでオリジナル楽曲とモーションキャプチャデータを配布し、GitHubで機能拡張とサンプルコードを公開することで二次創作を促しました。
 
 真鍋は2010年以降、複数のPerfumeプロジェクトにおいて、クリエイティブディレクション、テクニカルディレクション、プログラミング、サウンドエフェクトデザインを含むサウンド関連のデザインなどを担当してきました。担当領域とチーム構成はプロジェクトごとに異なります。
 
-各リポジトリは共同制作の記録でもあります。個々の著作者・貢献者への帰属を尊重し、Git履歴、クレジット、著作権表示、ライセンス条件はリポジトリごとに保持しています。
+各リポジトリは共同制作の記録でもあります。プロジェクトおよびコードの著作者・貢献者については、各リポジトリのドキュメントとGit履歴をご参照ください。リポジトリ固有の著作権表示やライセンス条件がある場合は、それらが優先されます。
